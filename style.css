@@ -18,10 +18,11 @@ body {
 
 h1 {
   font-size: 3rem;
-  background: linear-gradient(45deg, #ff9a9e, #fad0c4, #fad0c4);
+  background: blue;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: transform 0.3s ease-in-out;
+
 }
 
 h1:hover {
