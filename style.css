@@ -17,9 +17,9 @@ body {
 }
 
 h1 {
-  font-size: 8rem;
-  padding: 20px;
-  background: blue;
+  font-size: 20rem;
+  padding: 30px;
+  background: linear-gradient(45deg, #ff9a9e, #fad0c4, #fad0c4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: transform 0.3s ease-in-out;
